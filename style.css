@@ -36,7 +36,7 @@
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .add-field {
@@ -139,7 +139,7 @@
 }
 
 .li >    .input-text {
-  width: 226px
+  width: 226px;
 }
 
 .btn.delete .delete-img {
@@ -160,12 +160,12 @@
 
 /* Edit Task */
 .ul .li .input-text {
-  display: none
+  display: none;
 }
 
 .ul .li.edit-mode .input-text {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .ul .li.edit-mode .label {

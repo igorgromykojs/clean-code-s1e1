@@ -48,15 +48,14 @@
   padding: 0px;
 }
 
-.li, .do-title {
+.li, 
+.do-title {
   list-style: none;
 }
 
-.input-text,.btn{
-  outline: none;
-}
-
-.checkbox,.btn{
+.input-text,
+.checkbox,
+.btn{
   outline: none;
 }
 
@@ -138,7 +137,7 @@
   width: 226px;
 }
 
-.li >    .input-text {
+.li > .input-text {
   width: 226px;
 }
 

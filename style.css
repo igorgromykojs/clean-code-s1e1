@@ -22,7 +22,8 @@
 
 @media (max-width:768px) {
 
-  .body__promo { text-align: center;
+  .body__promo { 
+    text-align: center;
   }
 
 }
